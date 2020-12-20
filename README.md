@@ -28,3 +28,6 @@
 
 ## Step 9: 
 <img width="50%" src="https://github.com/devesh0605/buffer_overflow_act_1/blob/master/Step%2009.png" alt="Image 9">
+
+## Step 10: 
+<img width="50%" src="https://github.com/devesh0605/buffer_overflow_act_1/blob/master/Step%2010.png" alt="Image 10">

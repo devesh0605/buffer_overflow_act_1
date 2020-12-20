@@ -22,3 +22,9 @@
 
 ## Step 7: 
 <img width="50%" src="https://github.com/devesh0605/buffer_overflow_act_1/blob/master/Step%2007.png" alt="Image 7">
+
+## Step 8: 
+<img width="50%" src="https://github.com/devesh0605/buffer_overflow_act_1/blob/master/Step%2008.png" alt="Image 8">
+
+## Step 9: 
+<img width="50%" src="https://github.com/devesh0605/buffer_overflow_act_1/blob/master/Step%2009.png" alt="Image 9">
